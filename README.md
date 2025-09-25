@@ -42,6 +42,6 @@ O objetivo é entender o comportamento de compra dos usuários e propor estraté
 ## Material de Apresentação - Slides
 - Link: https://fiapcom-my.sharepoint.com/:p:/g/personal/rm563742_fiap_com_br/EXnr1IeINOhHq8l39p5D96oBAzC6J_zwg0D1acW7VUqDiw?e=eDTZc1
   
-## ✨ Autor
+## ✨ Autores
 
-Projeto desenvolvido por **Pollyana Ribeiro da Silva**  
+Projeto desenvolvido por **Pollyana Ribeiro da Silva**, **Ana Larissa Perim da Silva**,**Felipe Kenzo Matsuchita**  
