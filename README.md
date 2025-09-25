@@ -36,7 +36,7 @@ O objetivo é entender o comportamento de compra dos usuários e propor estraté
 ## 🔗 Como Acessar os Notebooks
 
 - [Análise Exploratória](./analise_exploratoria.ipynb)  
-- [Segmentação de Clientes](./segmentacao_clientes.ipynb)  
+- [Destinos](./segmentacao_clientes.ipynb)  
 
 ---
 
