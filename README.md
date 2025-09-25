@@ -10,7 +10,7 @@ O objetivo é entender o comportamento de compra dos usuários e propor estraté
 
 - `analise_exploratoria.ipynb` → Análise exploratória dos dados (EDA), com visualizações e insights iniciais.Agrupamento dos clientes em clusters e definição de perfis para cada grupo.  
   
-- `segmentacao_clientes.ipynb` → Destinos mais visitados e com mais compras.  
+- `Destinos.ipynb` → Destinos mais visitados e com mais compras.  
 
 ---
 
