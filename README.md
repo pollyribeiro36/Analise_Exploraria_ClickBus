@@ -43,4 +43,3 @@ O objetivo é entender o comportamento de compra dos usuários e propor estraté
 ## ✨ Autor
 
 Projeto desenvolvido por **Pollyana Ribeiro da Silva**  
-💼 [(www.linkedin.com/in/pollyana-ribeiro-da-silva-8630432a8)] | 📧 contato: pollyribeiro896@gmail.com
